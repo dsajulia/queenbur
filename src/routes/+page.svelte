@@ -1,7 +1,2 @@
-<script>
-	import ChatHeader from '../components/ChatHeader.svelte';
-
-
-</script>
-
-<ChatHeader />
+<h1>Welcome to SvelteKit</h1>
+<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
